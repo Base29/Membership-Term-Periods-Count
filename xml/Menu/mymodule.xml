@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/my-page</path>
+    <page_callback>CRM_Mymodule_Page_MyPage</page_callback>
+    <title>MyPage</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
